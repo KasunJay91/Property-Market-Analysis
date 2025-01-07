@@ -35,4 +35,4 @@ o	Created drill-through capabilities to explore suburb-level insights, rental an
 o	Enabled interactive filtering options by state, city, suburb, and property categories.
 o	Integrated heatmaps and geospatial visuals for enhanced storytelling.
 5.	Reporting:
-o	Designed detailed dashboards in Power BI, including:
+o	Designed detailed dashboards in Power BI.
